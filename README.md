@@ -1,4 +1,4 @@
-# wled-apple-remote
+# wled-apple-remote-json
 ### JSON for my Apple v1 Remote for WLED
 
 Please ensure you change the 24-bit hex encoded integer (e.g. 0x77E11046) to the ones that work with your remote,
